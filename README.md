@@ -2,4 +2,4 @@
 
 ## Usage
 `./make-cert.sh dev-domain.local`
-- will export to certs/*domainname*/
+- will export to '~/certs/*domainname*/'
