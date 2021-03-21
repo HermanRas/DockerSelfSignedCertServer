@@ -1,5 +1,5 @@
-##Docker Self-Sign Cert Generator
+# Docker Self-Sign Cert Generator
 
-#Usage
+## Usage
 `./make-cert.sh dev-domain.local`
 - will export to certs/*domainname*/
